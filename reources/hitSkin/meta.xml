@@ -1,0 +1,6 @@
+<meta>
+
+	<script src="hit_c.lua" type="client" />
+	<script src="hit_s.lua" type="server" />
+
+</meta>

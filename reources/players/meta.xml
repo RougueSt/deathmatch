@@ -1,0 +1,8 @@
+<meta>
+     <info author="Rougue" name="guerra" description="My first MTA server" />
+     <script src="authentication.lua" type="server" />
+     <script src="times.lua" type="server" />
+     <script src="armas.lua" type="server" />
+     <script src="tela_c.lua" type="client" />
+     <file src="pablo.png" type="client"/>
+</meta>
