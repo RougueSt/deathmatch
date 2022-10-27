@@ -1,0 +1,202 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-09-30 16:55:25] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2022-09-30 16:55:28] Resource 'tactics-12-r20' requests some acl rights. Use the command 'aclrequest list tactics-12-r20'
+[2022-09-30 16:55:29] Resources: 204 loaded, 0 failed
+[2022-09-30 16:55:29] Starting resources...
+[2022-09-30 16:55:29] Server minclientversion is now 1.5.7-9.19626
+[2022-09-30 16:55:29] Server started and is ready to accept connections!
+[2022-09-30 16:55:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-09-30 16:55:29] Type 'help' for a list of commands.
+[2022-09-30 16:55:34] CONNECT: Hyper~Rougue*L connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21331.0)
+[2022-09-30 16:55:34] JOIN: Hyper~Rougue*L joined the game (IP: 127.0.0.1)
+[2022-09-30 16:56:24] QUIT: Hyper~Rougue*L left the game [Quit]
+[2022-09-30 16:56:24] Server stopped!
+[2022-09-30 16:56:25] Stopping resources..........
+[2022-09-30 16:56:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-10-02 04:09:31] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2022-10-02 04:09:47] Resource 'tactics-12-r20' requests some acl rights. Use the command 'aclrequest list tactics-12-r20'
+[2022-10-02 04:09:49] Resources: 207 loaded, 0 failed
+[2022-10-02 04:09:49] Starting resources...
+[2022-10-02 04:09:49] Server minclientversion is now 1.5.7-9.19626
+[2022-10-02 04:09:50] Server started and is ready to accept connections!
+[2022-10-02 04:09:50] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-02 04:09:50] Type 'help' for a list of commands.
+[2022-10-02 04:09:51] CONNECT: Hyper~Rougue*L connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21331.0)
+[2022-10-02 04:09:51] JOIN: Hyper~Rougue*L joined the game (IP: 127.0.0.1)
+[2022-10-02 04:10:21] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:10:27] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x2]
+[2022-10-02 04:10:28] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:10:34] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x2]
+[2022-10-02 04:10:34] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:10:40] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:10:56] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:02] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x3]
+[2022-10-02 04:11:03] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:09] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:24] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:30] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x2]
+[2022-10-02 04:11:30] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:48] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:51] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:11:57] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x2]
+[2022-10-02 04:11:57] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:12:03] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 04:13:15] QUIT: Hyper~Rougue*L left the game [Quit]
+[2022-10-02 04:13:16] Server stopped!
+[2022-10-02 04:13:16] Stopping resources..........
+[2022-10-02 04:13:16] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-10-02 15:36:18] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2022-10-02 15:36:31] Resource 'tactics-12-r20' requests some acl rights. Use the command 'aclrequest list tactics-12-r20'
+[2022-10-02 15:36:33] Resources: 206 loaded, 0 failed
+[2022-10-02 15:36:33] Starting resources...
+[2022-10-02 15:36:33] Server minclientversion is now 1.5.7-9.19626
+[2022-10-02 15:36:33] Server started and is ready to accept connections!
+[2022-10-02 15:36:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-02 15:36:33] Type 'help' for a list of commands.
+[2022-10-02 15:36:34] CONNECT: Hyper~Rougue connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21331.0)
+[2022-10-02 15:36:34] JOIN: Hyper~Rougue joined the game (IP: 127.0.0.1)
+[2022-10-02 15:36:43] CHAT: Hyper~Rougue: w
+[2022-10-02 15:36:58] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 15:37:33] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 15:37:42] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 15:37:50] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-02 15:38:36] CHAT: Hyper~Rougue: R
+[2022-10-02 16:01:46] QUIT: Hyper~Rougue left the game [Quit]
+[2022-10-02 16:01:47] Server stopped!
+[2022-10-02 16:01:47] Stopping resources..........
+[2022-10-02 16:01:47] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2022-10-12 01:22:53] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2022-10-12 01:22:57] Resource 'tactics-12-r20' requests some acl rights. Use the command 'aclrequest list tactics-12-r20'
+[2022-10-12 01:22:57] Resources: 204 loaded, 0 failed
+[2022-10-12 01:22:57] Starting resources...
+[2022-10-12 01:22:57] Server minclientversion is now 1.5.7-9.19626
+[2022-10-12 01:22:58] Server started and is ready to accept connections!
+[2022-10-12 01:22:58] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-10-12 01:22:58] Type 'help' for a list of commands.
+[2022-10-12 01:22:58] CONNECT: Rougue connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21342.0)
+[2022-10-12 01:22:59] JOIN: Rougue joined the game (IP: 127.0.0.1)
+[2022-10-12 01:24:20] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:24:43] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:24:45] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:24:51] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x4]
+[2022-10-12 01:24:55] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:27:10] Starting freeroam
+[2022-10-12 01:27:10] startResource: Resource 'freeroam' started
+[2022-10-12 01:27:10] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:27:10] Starting editor_test
+[2022-10-12 01:27:10] startResource: Resource 'editor_test' started
+[2022-10-12 01:27:20] Stopping freeroam
+[2022-10-12 01:27:20] Stopping editor_test
+[2022-10-12 01:31:06] Starting freeroam
+[2022-10-12 01:31:06] startResource: Resource 'freeroam' started
+[2022-10-12 01:31:06] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:31:06] Starting editor_test
+[2022-10-12 01:31:06] startResource: Resource 'editor_test' started
+[2022-10-12 01:31:11] Stopping freeroam
+[2022-10-12 01:31:11] Stopping editor_test
+[2022-10-12 01:33:02] Starting freeroam
+[2022-10-12 01:33:02] startResource: Resource 'freeroam' started
+[2022-10-12 01:33:02] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:33:02] Starting editor_test
+[2022-10-12 01:33:02] startResource: Resource 'editor_test' started
+[2022-10-12 01:33:11] Stopping freeroam
+[2022-10-12 01:33:11] Stopping editor_test
+[2022-10-12 01:33:18] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:33:27] INFO: Cannot destroy element: element does not exist or invalid element (ActionDestroy:destructor)
+[2022-10-12 01:33:31] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:33:37] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.  [DUP x3]
+[2022-10-12 01:33:43] INFO: Cannot perform undo: element does not exist or invalid element (ActionDestroy:performUndo)
+[2022-10-12 01:33:44] INFO: Cannot perform undo: element does not exist or invalid element (ActionProperties:performUndo)
+[2022-10-12 01:33:44] INFO: Cannot perform undo: element does not exist or invalid element (ActionCreate:performUndo)
+[2022-10-12 01:33:49] INFO: Cannot destroy element: element does not exist or invalid element (ActionDestroy:destructor)
+[2022-10-12 01:33:49] INFO: Cannot destroy element: element does not exist or invalid element
+[2022-10-12 01:33:55] INFO: Cannot destroy element: element does not exist or invalid element
+[2022-10-12 01:36:17] Starting freeroam
+[2022-10-12 01:36:17] startResource: Resource 'freeroam' started
+[2022-10-12 01:36:17] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:36:17] Starting editor_test
+[2022-10-12 01:36:17] startResource: Resource 'editor_test' started
+[2022-10-12 01:36:23] Stopping freeroam
+[2022-10-12 01:36:23] Stopping editor_test
+[2022-10-12 01:38:58] Starting freeroam
+[2022-10-12 01:38:58] startResource: Resource 'freeroam' started
+[2022-10-12 01:38:58] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:38:58] Starting editor_test
+[2022-10-12 01:38:58] startResource: Resource 'editor_test' started
+[2022-10-12 01:39:10] Stopping freeroam
+[2022-10-12 01:39:10] Stopping editor_test
+[2022-10-12 01:39:26] INFO: Cannot destroy element: element does not exist or invalid element
+[2022-10-12 01:40:01] Starting freeroam
+[2022-10-12 01:40:01] startResource: Resource 'freeroam' started
+[2022-10-12 01:40:01] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:40:01] Starting editor_test
+[2022-10-12 01:40:01] startResource: Resource 'editor_test' started
+[2022-10-12 01:40:10] Stopping freeroam
+[2022-10-12 01:40:10] Stopping editor_test
+[2022-10-12 01:43:11] Starting freeroam
+[2022-10-12 01:43:11] startResource: Resource 'freeroam' started
+[2022-10-12 01:43:11] Resource 'editor_test' changed, reloading and starting
+[2022-10-12 01:43:11] Starting editor_test
+[2022-10-12 01:43:12] startResource: Resource 'editor_test' started
+[2022-10-12 01:43:26] Stopping freeroam
+[2022-10-12 01:43:26] Stopping editor_test
+[2022-10-12 01:48:52] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:48:58] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:49:02] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:49:08] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:49:20] WARNING: edf\edf.lua:623: Expected positive value, got negative. This warning may be an error in future versions.
+[2022-10-12 01:57:37] QUIT: Rougue left the game [Quit]
+[2022-10-12 01:57:37] Server stopped!
+[2022-10-12 01:57:38] Stopping resources..........
+[2022-10-12 01:57:38] Closing SQLite3 database

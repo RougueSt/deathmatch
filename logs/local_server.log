@@ -1,0 +1,120 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-08-20 15:21:32] Resources: 193 loaded, 0 failed
+[2022-08-20 15:21:32] Starting resources...
+[2022-08-20 15:21:32] Server minclientversion is now 1.5.6-9.16361
+[2022-08-20 15:21:32] Server minclientversion is now 1.5.6-9.16362
+[2022-08-20 15:21:32] Gamemode 'play' started.
+[2022-08-20 15:21:32] Server started and is ready to accept connections!
+[2022-08-20 15:21:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-08-20 15:21:32] Type 'help' for a list of commands.
+[2022-08-20 15:21:33] CONNECT: [NZA]Rougue[Hyper] connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21261.0)
+[2022-08-20 15:21:35] JOIN: [NZA]Rougue[Hyper] joined the game (IP: 127.0.0.1)
+[2022-08-20 15:21:47] LOGIN: (Everyone, Console) [NZA]Rougue[Hyper] successfully logged in as 'Rougue' (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-08-20 15:22:01] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:22:27] ADMIN: [NZA]Rougue[Hyper] has fixed vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 15:24:12] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:25:36] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:25:38] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:25:44] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:26:42] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:28:21] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:29:04] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:31:02] ADMIN: [NZA]Rougue[Hyper] has fixed vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 15:35:00] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:35:14] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:42:06] ADMIN: [NZA]Rougue[Hyper] has fixed vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 15:44:02] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 15:49:49] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hydra'" 
+[2022-08-20 16:02:21] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] 'AK-47'
+[2022-08-20 16:02:21] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] 'AK-47'
+[2022-08-20 16:02:21] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] 'AK-47'
+[2022-08-20 16:03:39] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hunter'" 
+[2022-08-20 16:14:22] ADMIN: [NZA]Rougue[Hyper] has destroyed vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 16:14:25] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hunter'" 
+[2022-08-20 16:14:26] ADMIN: [NZA]Rougue[Hyper] has blown vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 16:14:29] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hunter'" 
+[2022-08-20 16:14:31] ADMIN: [NZA]Rougue[Hyper] has given [NZA]Rougue[Hyper] a 'Hunter'" 
+[2022-08-20 16:14:32] ADMIN: [NZA]Rougue[Hyper] has blown vehicle of [NZA]Rougue[Hyper]
+[2022-08-20 16:14:37] ADMIN: [NZA]Rougue[Hyper] has given a jetpack to [NZA]Rougue[Hyper]
+[2022-08-20 16:14:37] ADMIN: [NZA]Rougue[Hyper] has removed [NZA]Rougue[Hyper]'s jetpack
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has given a jetpack to [NZA]Rougue[Hyper]
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has removed [NZA]Rougue[Hyper]'s jetpack
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has given a jetpack to [NZA]Rougue[Hyper]
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has removed [NZA]Rougue[Hyper]'s jetpack
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has given a jetpack to [NZA]Rougue[Hyper]
+[2022-08-20 16:14:38] ADMIN: [NZA]Rougue[Hyper] has removed [NZA]Rougue[Hyper]'s jetpack
+[2022-08-20 16:14:46] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 100
+[2022-08-20 16:14:53] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s Health stat to 1000
+[2022-08-20 16:14:58] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s Health stat to 1000
+[2022-08-20 16:14:58] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s Health stat to 1000
+[2022-08-20 16:15:05] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 100
+[2022-08-20 16:15:12] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 100
+[2022-08-20 16:15:19] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 140
+[2022-08-20 16:15:24] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 150
+[2022-08-20 16:15:28] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 160
+[2022-08-20 16:15:33] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 170
+[2022-08-20 16:15:39] ADMIN: [NZA]Rougue[Hyper] has changed [NZA]Rougue[Hyper]'s health to 180
+[2022-08-20 16:15:55] ACL: admin: Object 'user.Rougue' added to group 'SuperModerator'
+[2022-08-20 16:15:55] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group SuperModerator
+[2022-08-20 16:15:58] ACL: admin: Object 'user.Rougue' added to group 'MapEditor'
+[2022-08-20 16:15:58] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group MapEditor
+[2022-08-20 16:16:00] ACL: admin: Object 'user.Rougue' added to group 'raceACLGroup'
+[2022-08-20 16:16:00] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group raceACLGroup
+[2022-08-20 16:16:01] ACL: admin: Object 'user.Rougue' added to group 'Moderator'
+[2022-08-20 16:16:01] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group Moderator
+[2022-08-20 16:16:03] ACL: admin: Object 'user.Rougue' added to group 'DevGroup'
+[2022-08-20 16:16:03] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group DevGroup
+[2022-08-20 16:16:05] ACL: admin: Object 'user.Rougue' added to group 'Admin'
+[2022-08-20 16:16:05] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group Admin
+[2022-08-20 16:16:07] ACL: admin: Object 'user.Rougue' added to group 'RPC'
+[2022-08-20 16:16:07] ACL: [NZA]Rougue[Hyper][Rougue] [C452203CED0ABF5F665EE8F55249A5B3] [127.0.0.1] added user.Rougue to ACL Group RPC
+[2022-08-20 16:16:15] ERROR: mapmanager\mapmanager_exports.lua:5: mapmanager: Invalid gamemode specified.
+[2022-08-20 16:17:33] QUIT: [NZA]Rougue[Hyper] left the game [Quit]
+[2022-08-20 16:17:34] Server stopped!
+[2022-08-20 16:17:34] Stopping resources.......................
+[2022-08-20 16:17:35] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2022-09-06 13:52:36] Resources: 193 loaded, 0 failed
+[2022-09-06 13:52:36] Starting resources...
+[2022-09-06 13:52:37] Server minclientversion is now 1.5.6-9.16361
+[2022-09-06 13:52:37] Server minclientversion is now 1.5.6-9.16362
+[2022-09-06 13:52:37] Gamemode 'play' started.
+[2022-09-06 13:52:37] Server started and is ready to accept connections!
+[2022-09-06 13:52:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2022-09-06 13:52:37] Type 'help' for a list of commands.
+[2022-09-06 13:52:38] CONNECT: Hyper~Rougue connected (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3  Version: 1.5.9-9.21261.0)
+[2022-09-06 13:52:39] JOIN: Hyper~Rougue joined the game (IP: 127.0.0.1)
+[2022-09-06 13:52:50] LOGIN: Hyper~Rougue tried to log in as 'freshgull' (Unknown account) (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:52:56] LOGIN: Hyper~Rougue tried to log in as 'freshgull' (Unknown account) (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:53:04] LOGIN: Hyper~Rougue tried to log in as 'thebroker' (Unknown account) (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:53:14] LOGIN: Hyper~Rougue tried to log in as 'Rougue' with an invalid password (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:53:17] LOGIN: Hyper~Rougue tried to log in as 'Rougue' with an invalid password (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:53:21] LOGIN: (Everyone, Moderator, SuperModerator, Admin, Console, RPC, MapEditor, raceACLGroup, DevGroup) Hyper~Rougue successfully logged in as 'Rougue' (IP: 127.0.0.1  Serial: C452203CED0ABF5F665EE8F55249A5B3)
+[2022-09-06 13:54:03] QUIT: Hyper~Rougue left the game [Quit]
+[2022-09-06 13:54:04] Server stopped!
+[2022-09-06 13:54:04] Stopping resources.......................
+[2022-09-06 13:54:05] Closing SQLite3 database
