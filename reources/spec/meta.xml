@@ -1,0 +1,5 @@
+<meta>
+     <info author="Rougue" name="guerra" description="My first MTA server" />
+     <script src="spec_s.lua" type="server" />
+     <script src="spec.lua" type="client" />
+</meta>
